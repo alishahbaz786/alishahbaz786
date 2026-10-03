@@ -33,7 +33,7 @@
 
 ### 👨‍💻 Who I Am
 
-**.NET Full Stack Developer** with **7+ months of hands-on experience** building and maintaining web applications for **Health Management Information Systems (HMIS)** using ASP.NET Web Forms and SQL Server.
+**.NET Full Stack Developer** with **12+ months of hands-on experience** building and maintaining web applications for **Health Management Information Systems (HMIS)** using ASP.NET Web Forms and SQL Server.
 
 Frontend is where I started and where I'm strongest: **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and jQuery**, with a focus on responsive, fast and user-friendly interfaces. On the backend I work with **C# and ASP.NET Web Forms**, and I manage and tune **MSSQL** databases for performance, security and data integrity.
 
@@ -52,7 +52,7 @@ My work supports real hospitals and clinics every day, from appointment scheduli
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/EXPERIENCE-7%2B%20Months-14B8A6?style=for-the-badge&labelColor=0B1220)
+![Experience](https://img.shields.io/badge/EXPERIENCE-12%2B%20Months-14B8A6?style=for-the-badge&labelColor=0B1220)
 ![Domain](https://img.shields.io/badge/DOMAIN-Healthcare%20%2F%20HMIS-3B82F6?style=for-the-badge&labelColor=0B1220)
 ![Role](https://img.shields.io/badge/ROLE-.NET%20Full%20Stack-14B8A6?style=for-the-badge&labelColor=0B1220)
 ![Database](https://img.shields.io/badge/DATABASE-MSSQL-3B82F6?style=for-the-badge&labelColor=0B1220)
@@ -255,7 +255,7 @@ Health Management Information System used across multiple healthcare institution
 <table align="center" width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 <h3>🎓 BSIT</h3>
 <b>Bachelor of Science in Information Technology</b><br/>
 🏛️ Virtual University of Pakistan<br/><br/>
@@ -265,6 +265,11 @@ Health Management Information System used across multiple healthcare institution
 A four-year program focused on the practical application of technology: programming, database management, networking and software development.
 </td>
 
+
+</tr>
+</table>
+
+<br/>
 
 <!-- ======================= LEARNING ======================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:14B8A6&height=55&section=header&text=CURRENTLY%20LEARNING&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="Currently Learning" />
@@ -329,7 +334,6 @@ A four-year program focused on the practical application of technology: programm
 [![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirajpoot2150@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923019081457)
 
 <br/>
 
