@@ -265,20 +265,6 @@ Health Management Information System used across multiple healthcare institution
 A four-year program focused on the practical application of technology: programming, database management, networking and software development.
 </td>
 
-<td width="50%" valign="top">
-<h3>🔬 Intermediate</h3>
-<b>Intermediate in Biology</b><br/>
-🏛️ Aspire College<br/><br/>
-<img src="https://img.shields.io/badge/2020%20--%202021-14B8A6?style=flat-square" alt="2020 - 2021" />
-<img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square" alt="Completed" />
-<br/><br/>
-Completed with a focus on Biology, building strong analytical and observational skills through life sciences coursework.
-</td>
-
-</tr>
-</table>
-
-<br/>
 
 <!-- ======================= LEARNING ======================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:14B8A6&height=55&section=header&text=CURRENTLY%20LEARNING&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="Currently Learning" />
