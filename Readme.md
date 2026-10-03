@@ -336,7 +336,7 @@ Completed with a focus on Biology, building strong analytical and observational 
 
 <div align="center">
 
-📞 **0301-9081457** &nbsp;•&nbsp; 📧 **alirajpoot2150@gmail.com** &nbsp;•&nbsp; 📍 **Lahore, Pakistan**
+📧 **alirajpoot2150@gmail.com** &nbsp;•&nbsp; 📍 **Lahore, Pakistan**
 
 <br/>
 
