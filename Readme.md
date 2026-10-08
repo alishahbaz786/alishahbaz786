@@ -303,22 +303,7 @@ A four-year program focused on the practical application of technology: programm
 
 <br/>
 
-<!-- ======================= SNAKE ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:14B8A6&height=55&section=header&text=CONTRIBUTION%20SNAKE&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="Contribution Snake" />
 
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ======================= CONTACT ======================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:14B8A6&height=55&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="Contact" />
